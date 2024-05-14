@@ -13,6 +13,6 @@ SentiXL is a sentiment analysis tool for processing Excel files with subjective 
 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Set up OpenAI API key and system prompt in `.env` file using `.env-sample`
-3. Place Excel file in `input` folder
-4. Run SentiXL: `python main.py`
-5. Get sentiment-labeled Excel file from `output` folder
+3. Run SentiXL: `python main.py`
+4. Enter the name of the column you want to analyze
+5. Check out the resulting file
