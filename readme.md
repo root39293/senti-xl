@@ -1,6 +1,6 @@
-# SentiXL
+# senti-xl
 
-SentiXL is a sentiment analysis tool for processing Excel files with subjective responses using the GPT model. It analyzes the sentiment of each response and generates a new Excel file with sentiment labels.
+senti-xl is a sentiment analysis tool for processing Excel files with subjective responses using the GPT model.
 
 ## Key Features
 
